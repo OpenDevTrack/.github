@@ -14,3 +14,11 @@ By working together, I can help create better software for everyone.
 
 I believe that everyone, regardless of experience level, has something valuable to offer in the realm of open-source contributions.
 I encourage everyone to get involved and make a difference through their contributions to open-source projects.
+
+## To get started, check out the following links:
+- [Open Source Guides](https://opensource.guide) - Comprehensive guides and resources for contributing to open source projects
+- [The Open Source Definition](https://opensource.org/osd) - The official definition of open source software and the requirements for its licensing
+- [GitHub Guides](https://guides.github.com) - Guides for using Git, GitHub, and contributing to open source projects on GitHub
+- [First Contributions](https://firstcontributions.github.io/) - A beginner-friendly guide to contributing to open source projects on GitHub
+- [Code Triage](https://www.codetriage.com/) - Find open source projects to contribute to based on your interests and skill level
+- [Up For Grabs](https://up-for-grabs.net) - A list of open source projects that have tasks or issues suitable for first-time contributors
