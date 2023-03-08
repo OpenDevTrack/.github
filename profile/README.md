@@ -13,4 +13,4 @@ I believe that open-source development is a great way to learn new skills, share
 By working together, I can help create better software for everyone.
 
 I believe that everyone, regardless of experience level, has something valuable to offer in the realm of open-source contributions.
-I encourage everyone to get involved and make a difference through their contributions to open-source projects..
+I encourage everyone to get involved and make a difference through their contributions to open-source projects.
